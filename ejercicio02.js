@@ -9,7 +9,7 @@ Crea un nuevo archivo JS que contenga una lista con los siguientes elementos:
 - Tu libro favorito (Objeto con propiedades: titulo, autor, fecha, url)
 */
 
-const cumpleNoa = new Date("21 mayo 1982");
+const cumpleNoa = new Date("12 febrero 1982");
 const libroFav = {
     titulo: "Dragonlace: El retorno de los dragones",
     autor: "Margaret Weis y Tracy Hickman",
